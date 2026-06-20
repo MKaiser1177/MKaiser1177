@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**MKaiser1177/MKaiser1177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vedant, a tech student based in India.
+I'm a heavy AI enthusiast and wish to explore the field as widely as possible.
 
-Here are some ideas to get you started:
+My main tech stack is numpy, pandas, matplotlib, scikit-learn and streamlit.
+Other skills include prompt engineering, web development and data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My github gradually gets greener and I feel engaging with other users will brighten it up a lot.
+
+As a weeb, I'm all for everyone using that as a conversation starter(you can probably tell from the profile pic).
+Some of my interests;
+    1) Anime, Manga, Japanese culture
+    2) Football
+    3) Pets
+    4) Board games
