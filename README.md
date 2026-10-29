@@ -3,11 +3,11 @@
 I'm Vedant, a tech student based in India.
 I'm a heavy AI enthusiast and wish to explore the field as widely as possible.
 
-My main tech stack is scikit-learn, FastAPI, Flask, JavaScript and Docker.
-Other skills include prompt engineering, web development and data analysis.
-Currently learning Pytorch, LangChain and MLOps.
+My main tech stack is LangChain, Scikit-learn, FastAPI, Flask, JavaScript and Docker.
+Other skills include Data Science, Prompt Engineering and Web Development.
+Currently learning Pytorch, GenAI and MLOps.
 
-My github gradually gets greener after publishing repos and I feel engaging with other users will brighten it up a lot.
+My Github gradually gets greener after publishing repos and I feel engaging with other users will brighten it up a lot.
 
 As a weeb, I'm all for everyone using that as a conversation starter (you can probably tell from the profile pic).
 
