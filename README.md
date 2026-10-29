@@ -3,7 +3,7 @@
 I'm Vedant, a tech student based in India.
 I'm a heavy AI enthusiast and wish to explore the field as widely as possible.
 
-My main tech stack is numpy, pandas, matplotlib, scikit-learn and streamlit.
+My main tech stack is scikit-learn, FastAPI, Flask, JavaScript and Docker.
 Other skills include prompt engineering, web development and data analysis.
 Currently learning Pytorch, LangChain and MLOps.
 
