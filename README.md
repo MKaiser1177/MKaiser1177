@@ -5,7 +5,7 @@ I'm a heavy AI enthusiast and wish to explore the field as widely as possible.
 
 My main tech stack is LangChain, Scikit-learn, FastAPI, Flask, JavaScript and Docker.
 Other skills include Data Science, Prompt Engineering and Web Development.
-Currently learning Pytorch, GenAI and MLOps.
+Currently learning LangGraph, Pytorch, and MLOps.
 
 My Github gradually gets greener after publishing repos and I feel engaging with other users will brighten it up a lot.
 
